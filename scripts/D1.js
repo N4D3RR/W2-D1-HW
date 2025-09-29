@@ -12,8 +12,8 @@ REGOLE
 */
 
 // SCRIVI QUI LA TUA RISPOSTA
-let nome = "Nader"
-let cognome = "Deghaili"
+let nome = "'Nader'"
+let cognome = "'Deghaili'"
 console.log("Le stringhe sono parole", nome, cognome)
 
 let età = 30
